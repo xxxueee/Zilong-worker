@@ -1,0 +1,6 @@
+name = "Zilong-worker"
+type = "javascript"
+account_id = "1db09afca0bac2a6a9292740aa18b1de"
+workers_dev = true
+route = ""
+zone_id = ""
